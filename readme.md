@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm constantly</h1>
 <h3 align="center">A dev that really needs to continue Java</h3>
 
-- 🌱 I’m currently learning **Beginner Java, Intermediate Python.**
+- 🌱 I’m currently learning **Beginner C++, Automating with Python.**
 
 - 👨‍💻 All of my projects are available at [(COMING SOON)]((COMING SOON))
 
